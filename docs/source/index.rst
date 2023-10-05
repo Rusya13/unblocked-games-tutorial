@@ -1,7 +1,7 @@
 Welcome to Unblocked Games documentation!
 ===================================
 
-[Ruslan Rocks](https://ruslan.rocks) offers a vast collection of unblocked games that can be played freely at school or home. These games are absolutely free to play and require no downloads, ensuring a hassle-free gaming experience. Some of the popular unblocked games available on the website include:
+`Ruslan Rocks Unblocked Games Website <https://ruslan.rocks/>` offers a vast collection of unblocked games that can be played freely at school or home. These games are absolutely free to play and require no downloads, ensuring a hassle-free gaming experience. Some of the popular unblocked games available on the website include:
 
 - Slope Unblocked
 - Bitlife Unblocked
